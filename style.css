@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.content{
+    width: 362px;
+    height: 362px;
+    position: relative;
+    background-color: FAFAF9;
+    border-radius: 12px;
+    box-shadow: 8px 8px 20px 0px rgba(85, 85, 85, 0.08);
+}
